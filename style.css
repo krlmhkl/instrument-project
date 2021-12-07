@@ -1,0 +1,20 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.noodid {
+  display: flex;
+  flex-direction: row;
+}
+
+.noodikast {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100px;
+  height: 100px;
+  color: blue;
+  border: solid 5px;
+}
